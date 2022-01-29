@@ -1,4 +1,5 @@
-# Air-Traffic-Viz
+# Air-Traffic-Viz (Skyway Viewer)
+
 A visualization of Domestic Passenger Data in India for the period of 2016-19
 
 The data was obtained from IATA website and was organized into csv files based on year
